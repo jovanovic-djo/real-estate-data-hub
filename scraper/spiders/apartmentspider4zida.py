@@ -16,7 +16,7 @@ class ApartmentSpider4Zida(scrapy.Spider):
             'apartmentsdata.csv': {'format': 'csv'},
         },
         'ITEM_PIPELINES': {
-            'realestate.pipelines.Apartments4ZidaPipeline': 300
+            'scraper.pipelines.Apartments4ZidaPipeline': 300
         }
     }
 

@@ -1,6 +1,6 @@
 import random
 import scrapy
-from scraper.items import ApartmentItem
+from scraper import items
 
 
 NUMBER_OF_PAGES = 550
@@ -15,7 +15,7 @@ class ApartmentSpiderHaloOglasi(scrapy.Spider):
             'apartmentsdata.csv': {'format': 'csv'},
         },
         'ITEM_PIPELINES': {
-            'realestate.pipelines.ApartmentsHaloOglasiPipeline': 400
+            'scraper.pipelines.ApartmentsHaloOglasiPipeline': 400
         }
     }
 
@@ -23,7 +23,7 @@ class ApartmentSpiderHaloOglasi(scrapy.Spider):
 
         apartments = response.css('div.row')
         for item in apartments:
-            apartment_item = ApartmentItem()
+            apartment_item = items.ApartmentItem()
 
             apartment_item['title'] = item.css('h3.product-title a::text').get()
             apartment_item['price'] = item.css('span[data-value]::attr(data-value)').get()
