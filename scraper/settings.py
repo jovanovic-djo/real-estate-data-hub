@@ -7,13 +7,13 @@
 #     https://docs.scrapy.org/en/latest/topics/downloader-middleware.html
 #     https://docs.scrapy.org/en/latest/topics/spider-middleware.html
 
-BOT_NAME = "realestate"
+BOT_NAME = "scraper"
 
 SPIDER_MODULES = ["realestate.spiders"]
 NEWSPIDER_MODULE = "realestate.spiders"
 
 FEEDS = {
-    'apartmentsdata.csv': {'format': 'csv'},
+    'data\\unclean\\scraped_data.csv': {'format': 'csv'},
 }
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent

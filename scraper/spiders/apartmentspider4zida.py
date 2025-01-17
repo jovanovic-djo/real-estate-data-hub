@@ -1,6 +1,6 @@
 import random
 import scrapy
-from realestate.items import ApartmentItem
+from scraper.items import ApartmentItem
 
 
 NUMBER_OF_PAGES = 99
