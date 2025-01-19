@@ -9827,9 +9827,9 @@ area,city,floor,location,price,rooms,source,square_price,title
 48,Beograd,1,"Meandri, Zemun, Zemun opština",107000,2.0,4zida,2229,Banjička
 45,Beograd,2,"Čukarica, Čukarica opština",128250,1.5,4zida,2850,Izvorska
 75,Kruševac,5,Gradske lokacije,53500,2.0,4zida,713,Rasadnik
-75,Beograd,,"Profesorska Kolonija, Palilula opština",315000,3.0,4zida,4200,Stojana Novakovića
+75,Beograd,1,"Profesorska Kolonija, Palilula opština",315000,3.0,4zida,4200,Stojana Novakovića
 98,Beograd,6,"Vojvode Stepe, Voždovac opština",84500,4.0,4zida,3380,SQUARE 2
-50,Beograd,,"Skojevsko Naselje, Rakovica opština",124000,2.0,4zida,2480,LUKE VOJVODICA
+50,Beograd,1,"Skojevsko Naselje, Rakovica opština",124000,2.0,4zida,2480,LUKE VOJVODICA
 114,Novi Sad,6,"Liman, Gradske lokacije",270000,4.0,4zida,2368,Liman 4
 44,Niš,2,"Palilula, Gradske lokacije",63800,1.5,4zida,1450,U blizini parka Čair i Kliničkog centra
 75,Beograd,2,"Kumodraž 2, Kumodraž, Voždovac opština",155000,2.5,4zida,2067,Bulevar Peka Dapčevića
@@ -9878,11 +9878,11 @@ area,city,floor,location,price,rooms,source,square_price,title
 92,Beograd,4,"Bežanijska kosa 2, Bežanijska kosa, Novi Beograd",259000,3.5,4zida,2815,Peđe Milosavljevića
 20,Beograd,5,"Krunski Venac, Vračar",78000,0.5,4zida,3900,Mileševska
 37,Beograd,1,Vračar,130000,1.5,4zida,3514,Sredačka
-60,Subotica,,"Radijalac, Gradske lokacije",59000,2.0,4zida,1513,Ognjena Price lamela B
+60,Subotica,1,"Radijalac, Gradske lokacije",59000,2.0,4zida,1513,Ognjena Price lamela B
 88,Beograd,3,"Hotel YU, Novi Beograd",258000,3.5,4zida,2932,Džona Kenedija
 56,Beograd,1,"Lekino Brdo, Voždovac opština",195000,3.0,4zida,3482,Miklošićeva
 133,Beograd,1,"Bežanijska kosa 2, Bežanijska kosa, Novi Beograd",310000,4.5,4zida,2331,Marka Čelebonovića
-122,Beograd,,"Dedinje, Savski Venac",590000,3.0,4zida,4836,Dr Vojislava Stojanovića
+122,Beograd,1,"Dedinje, Savski Venac",590000,3.0,4zida,4836,Dr Vojislava Stojanovića
 43,Novi Sad,2,Gradske lokacije,79720,2.0,4zida,1854,Novo Naselje
 114,Novi Sad,5,"Telep, Gradske lokacije",309800,4.0,4zida,2718,Bulevar Patrijarha Pavla (Somborski Bulevar)
 124,Novi Sad,5,"Adamovićevo Naselje, Gradske lokacije",249000,5.0,4zida,2008,Cara Dušana
@@ -9930,12 +9930,12 @@ area,city,floor,location,price,rooms,source,square_price,title
 45,Subotica,1,Gradske lokacije,52000,1.5,4zida,1156,Dudova Šuma
 43,Vrnjačka Banja,-3,Gradske lokacije,85813,2.0,4zida,1980,David Lux 2
 55,Beograd,1,"Miljakovac, Rakovica opština",105500,1.5,4zida,1918,Nikole Marakovića
-75,Beograd,,"Retenzija, Zemun, Zemun opština",225000,3.0,4zida,3000,Prve pruge
+75,Beograd,1,"Retenzija, Zemun, Zemun opština",225000,3.0,4zida,3000,Prve pruge
 76,Beograd,1,"Beograđanka, Savski Venac",289000,3.0,4zida,3803,Admirala Geprata
 26,Beočin,3,Gradske lokacije,260000,1.0,4zida,3881,Stambeno-poslovni objekat na Beočinskom trgu
 99,Beograd,5,"Banovo Brdo, Čukarica, Čukarica opština",209990,3.0,4zida,2121,Požeška
 27,Beograd,4,"Gornji Grad, Zemun, Zemun opština",58000,0.5,4zida,2148,Cara Dušana
-32,Šabac,,Gradske lokacije,41500,1.0,4zida,1297,Centar
+32,Šabac,1,Gradske lokacije,41500,1.0,4zida,1297,Centar
 167,Novi Sad,1,"Sremska Kamenica, Gradske lokacije",277500,6.0,4zida,1662,Tatarsko Brdo
 86,Niš,5,"Centar, Medijana, Gradske lokacije",72250,3.5,4zida,2125,Zelengorska
 72,Novi Sad,2,"Nova Detelinara, Detelinara, Gradske lokacije",210000,3.0,4zida,2917,Branka Bajića
@@ -9946,10 +9946,10 @@ area,city,floor,location,price,rooms,source,square_price,title
 46,Novi Sad,4,Gradske lokacije,145000,2.0,4zida,3152,Bulevar Evrope
 53,Novi Sad,3,Gradske lokacije,97850,2.0,4zida,1846,Podbara
 22,Zrenjanin,0,"Brigadira Ristića, Gradske lokacije",32000,0.5,4zida,1455,Dunavska
-49,Zrenjanin,,Gradske lokacije,55000,2.0,4zida,1122,Duvanika
+49,Zrenjanin,1,Gradske lokacije,55000,2.0,4zida,1122,Duvanika
 43,Novi Sad,1,"Telep, Gradske lokacije",53000,2.0,4zida,1019,Dream Home Residence
 77,Zrenjanin,5,Gradske lokacije,63000,3.0,4zida,818,4. Juli
-56,Valjevo,,Gradske lokacije,58000,2.0,4zida,1036,Centar
+56,Valjevo,1,Gradske lokacije,58000,2.0,4zida,1036,Centar
 39,Beograd,5,"Zvezdarska Šuma, Zvezdara opština",119000,1.5,4zida,3051,Ledinacka
 76,Beograd,3,"Mirijevo, Zvezdara opština",144000,3.5,4zida,1895,Koste Nađa
 79,Niš,2,"Palilula, Gradske lokacije",135000,3.0,4zida,1702,"Kompleks ""MODNA"" Niš"
@@ -9973,7 +9973,7 @@ area,city,floor,location,price,rooms,source,square_price,title
 46,Subotica,1,"Kertvaroš, Gradske lokacije",62000,1.5,4zida,1348,Jovana Mikica 14
 60,Novi Kneževac,4,Gradske lokacije,42000,2.5,4zida,700,Sv. Vlad. N. Velimirovića 2
 42,Kragujevac,2,"Bubanj, Centar, Gradske lokacije",55107,2.0,4zida,1300,Zelena Oaza
-50,Ruma,,Gradske lokacije,70000,2.0,4zida,1400,27. Oktobar LBC
+50,Ruma,1,Gradske lokacije,70000,2.0,4zida,1400,27. Oktobar LBC
 92,Novi Sad,11,"Stari Grad, Gradske lokacije",182000,3.5,4zida,1978,Novi Sad - Centar
 48,Novi Sad,2,"Satelitska Pijaca, Satelit, Novo Naselje, Gradske lokacije",73499,2.0,4zida,1531,Miloja Čiplića 4c
 132,Novi Sad,1,"Karagača, Petrovaradin, Gradske lokacije",197200,4.0,4zida,1494,Karagača 11g 2
@@ -9981,10 +9981,10 @@ area,city,floor,location,price,rooms,source,square_price,title
 32,Stara Pazova,3,"Nova Pazova, Okolne lokacije",45000,0.5,4zida,1406,"Svetosavska , Novo Naselje Bb"
 66,Beograd,2,"Ledine, Novi Beograd",135300,2.5,4zida,2050,Višegradska 18A
 70,Novi Sad,3,"Novi Sad - Centar, Stari Grad, Gradske lokacije",174999,3.0,4zida,2500,Masarikova 10
-28,Beograd,,"Ledine, Surčin opština",60000,1.0,4zida,2143,Visegradska 18A
+28,Beograd,1,"Ledine, Surčin opština",60000,1.0,4zida,2143,Visegradska 18A
 103,Novi Sad,2,"Petrovaradin, Gradske lokacije",150000,4.0,4zida,1456,ŠENOINA 14
 39,Beograd,5,"Banovo Brdo, Čukarica, Čukarica opština",99000,1.5,4zida,2538,Požeška 97
-50,Novi Sad,,"Petrovaradin, Gradske lokacije",94000,2.0,4zida,1880,Preradoviceva 102
+50,Novi Sad,1,"Petrovaradin, Gradske lokacije",94000,2.0,4zida,1880,Preradoviceva 102
 120,Beograd,-3,"Zemun, Zemun opština",299990,5.0,4zida,2500,Zelena Avenija
 57,Novi Sad,5,"Nova Detelinara, Detelinara, Gradske lokacije",117500,2.0,4zida,2061,Janka Čmelika
 30,Novi Sad,0,"Tatarsko Brdo, Sremska Kamenica, Gradske lokacije",185000,1.0,4zida,2467,TREMIS RESIDENCE
@@ -10021,7 +10021,7 @@ area,city,floor,location,price,rooms,source,square_price,title
 121,Beograd,3,"Hram Svetog Save, Neimar, Vračar",544000,3.0,4zida,4496,BULEVAR OSLOBODJENJA
 177,Beograd,3,"Hram Svetog Save, Neimar, Vračar",795000,5.0,4zida,4492,BULEVAR OSLOBODJENJA
 67,Beograd,5,"Kanarevo Brdo, Rakovica opština",109000,2.5,4zida,1627,Kanarevo brdo
-111,Beograd,,"Crveni Krst Zvezdara, Zvezdara opština",279000,3.0,4zida,2514,Kajmakčalanska
+111,Beograd,1,"Crveni Krst Zvezdara, Zvezdara opština",279000,3.0,4zida,2514,Kajmakčalanska
 62,Beograd,2,"Banovo Brdo, Čukarica, Čukarica opština",189900,2.5,4zida,3063,Blagoja Parovića
 73,Beograd,4,"Topličin Venac, Kosančićev Venac, Beograd centar, Stari Grad opština",335000,3.0,4zida,4589,Maršala Birjuzova
 60,Beograd,1,"Blok 63, Bežanijski Blokovi, Novi Beograd",151200,2.0,4zida,2520,Gandijeva
@@ -10033,9 +10033,9 @@ area,city,floor,location,price,rooms,source,square_price,title
 26,Kopaonik,2,"Banjski Kopaonik, Okolne lokacije",51000,1.0,4zida,1962,Stefana Prvovenčanog
 52,Zrenjanin,1,"Centar, Gradske lokacije",68000,1.5,4zida,1308,Svetozara Markovića 2
 101,Beograd,10,"Blok 67 - Belville, Novi Beograd",349990,3.0,4zida,3465,Jurija Gagarina
-53,Beograd,,"Pašino brdo, Voždovac opština",153700,3.0,4zida,2900,Miloša Svilara
+53,Beograd,1,"Pašino brdo, Voždovac opština",153700,3.0,4zida,2900,Miloša Svilara
 71,Novi Sad,1,Gradske lokacije,106530,3.0,4zida,1500,Adice
-48,Kragujevac,,Gradske lokacije,51500,2.0,4zida,1073,Bagremar
+48,Kragujevac,1,Gradske lokacije,51500,2.0,4zida,1073,Bagremar
 62,Novi Sad,0,"Sajmište, Gradske lokacije",159000,3.0,4zida,1728,LED Residence
 86,Beograd,15,"Blok 63, Bežanijski Blokovi, Novi Beograd",162000,4.0,4zida,1884,Nehruova
 85,Beograd,2,"Miljakovac III, Miljakovac, Rakovica opština",173500,4.0,4zida,2041,Dr Andrejke
@@ -10080,7 +10080,7 @@ area,city,floor,location,price,rooms,source,square_price,title
 50,Novi Sad,5,Gradske lokacije,80000,2.0,4zida,1600,Novo Naselje
 25,Beograd,1,"Vidikovac, Rakovica opština",48000,0.5,4zida,1920,Kneza Višeslava
 76,Beograd,-0.5,"Mirijevo, Zvezdara opština",59500,3.0,4zida,783,Aleksandra Bugarskog
-41,Beograd,,"Ledine, Novi Beograd",82500,2.0,4zida,2012,Bukovačka
+41,Beograd,1,"Ledine, Novi Beograd",82500,2.0,4zida,2012,Bukovačka
 122,Novi Sad,1,Gradske lokacije,265000,4.0,4zida,2172,Novo Naselje
 132,Novi Sad,7,Gradske lokacije,298900,4.0,4zida,2264,Novo Naselje
 61,Novi Sad,5,"Bulevar Evrope, Gradske lokacije",169000,3.0,4zida,2770,Laze Nančića
@@ -10161,7 +10161,7 @@ area,city,floor,location,price,rooms,source,square_price,title
 54,Zrenjanin,1,Gradske lokacije,49900,2.0,4zida,924,Bagljaš
 51,Zrenjanin,4,Gradske lokacije,45000,2.0,4zida,882,Ruža Šulman
 81,Novi Sad,1,Gradske lokacije,129380,4.0,4zida,1597,Adice
-45,Novi Sad,,Gradske lokacije,87650,2.0,4zida,1948,Podbara
+45,Novi Sad,1,Gradske lokacije,87650,2.0,4zida,1948,Podbara
 108,Novi Sad,7,"Liman, Gradske lokacije",310000,3.0,4zida,2870,Liman 4
 82,Novi Sad,2,Gradske lokacije,135200,4.0,4zida,1649,Veternik
 108,Novi Sad,1,"Stari Grad, Gradske lokacije",197760,5.0,4zida,1831,Novi Sad - Centar
@@ -10180,7 +10180,7 @@ area,city,floor,location,price,rooms,source,square_price,title
 61,Novi Sad,4,"Liman, Gradske lokacije",157000,2.0,4zida,2574,Liman 1
 34,Beograd,2,"Karaburma, Palilula opština",95000,1.0,4zida,2794,Aleksandra Fleminga
 33,Beograd,2,"Kalenić, Vračar",135000,1.0,4zida,4091,Hadži Prodanova
-75,Beograd,,"Višnjička Banja, Palilula opština",125000,2.0,4zida,1667,Metalska
+75,Beograd,1,"Višnjička Banja, Palilula opština",125000,2.0,4zida,1667,Metalska
 73,Beograd,3,"Slavija, Vračar",249000,2.0,4zida,3411,Deligradska
 48,Beograd,1,"Karaburma, Palilula opština",110000,2.5,4zida,2292,Stevana Dukića
 41,Beograd,8,"Banjica, Voždovac opština",106000,2.0,4zida,2585,Bulevar Oslobodjenja
@@ -10206,7 +10206,7 @@ area,city,floor,location,price,rooms,source,square_price,title
 70,Zrenjanin,1,"Ruža Šulman, Gradske lokacije",75000,3.0,4zida,1071,"Zrenjanin, Ruža Šulman"
 43,Novi Sad,1,"Salajka, Gradske lokacije",150000,2.0,4zida,1579,Ugao Partizanske 30 i Radoja Domanovica
 41,Beograd,0,"Skojevsko Naselje, Rakovica opština",85000,1.0,4zida,2073,Luke Vojvodića
-60,Novi Sad,,Gradske lokacije,111000,2.0,4zida,1850,Novo Naselje
+60,Novi Sad,1,Gradske lokacije,111000,2.0,4zida,1850,Novo Naselje
 60,Novi Sad,5,"Novo Naselje, Gradske lokacije",144200,3.0,4zida,2403,Bate Brkića
 90,Niš,7,"Centar, Medijana, Gradske lokacije",309000,4.0,4zida,2915,Višeporodični stambeni objekat u ul. Stevana Nemanje
 84,Pančevo,3,"Centar, Gradske lokacije",126000,3.0,4zida,1500,Kočina 6
@@ -10249,7 +10249,7 @@ area,city,floor,location,price,rooms,source,square_price,title
 105,Beograd,4,"Crveni Krst Vračar, Vračar",288000,4.0,4zida,2743,Cerska
 70,Beograd,1,"Blok 23, Novi Beograd",195900,3.0,4zida,2799,Bulevar Milutina Milankovića
 68,Novi Sad,0,"Tatarsko Brdo, Sremska Kamenica, Gradske lokacije",239000,3.5,4zida,2656,Tatarsko Brdo
-92,Beograd,,Voždovac opština,115900,4.0,4zida,1260,Vojvode Vlahovića Voždovac
+92,Beograd,1,Voždovac opština,115900,4.0,4zida,1260,Vojvode Vlahovića Voždovac
 32,Beograd,3,"Konjarnik, Zvezdara opština",86500,1.0,4zida,2703,Bulevar Kralja Aleksandra
 73,Beograd,4,"Voždovačka crkva, Voždovac opština",196900,2.5,4zida,2697,Vojvode Stepe
 37,Beograd,1,"Voždovačka crkva, Voždovac opština",95000,2.0,4zida,2568,Vojvode Stepe
@@ -10287,12 +10287,12 @@ area,city,floor,location,price,rooms,source,square_price,title
 102,Beograd,4,"Bežanijska kosa 1, Bežanijska kosa, Novi Beograd",270000,3.5,4zida,2647,Nikole Dobrovića
 47,Novi Sad,2,Gradske lokacije,87550,2.0,4zida,1863,Detelinara
 117,Novi Sad,3,Gradske lokacije,257500,4.0,4zida,2201,Bulevar Oslobođenja
-70,Beograd,,Palilula opština,164500,3.0,4zida,2350,Cvijićeva
+70,Beograd,1,Palilula opština,164500,3.0,4zida,2350,Cvijićeva
 44,Beograd,0,"Dedinje, Savski Venac",170000,1.5,4zida,2329,Dinarska 5* Residence
 100,Beograd,1,"Klinički Centar, Savski Venac",325000,3.0,4zida,3250,Birčaninova
 63,Beograd,6,"Šumice, Voždovac opština",155000,2.5,4zida,2460,Ljermontova
 46,Beograd,6,"Karaburma, Palilula opština",107000,2.0,4zida,2326,Drenovačka
-85,Beograd,,"Dušanovac, Voždovac opština",240164,3.0,4zida,2806,CORNER PARK
+85,Beograd,1,"Dušanovac, Voždovac opština",240164,3.0,4zida,2806,CORNER PARK
 58,Subotica,3,Gradske lokacije,66700,4.0,4zida,1150,Prozivka
 47,Kragujevac,2,Gradske lokacije,63000,2.5,4zida,1340,Stara Radnička Kolonija
 55,Novi Sad,4,"Novo Naselje, Gradske lokacije",89600,2.0,4zida,1629,Mileve Marić
@@ -10332,7 +10332,7 @@ area,city,floor,location,price,rooms,source,square_price,title
 88,Beograd,4,"Kumodraž 2, Kumodraž, Voždovac opština",140000,3.0,4zida,1591,Bulevar Peka Dapčevića
 86,Beograd,8,"Blok 38, Novi Beograd",220000,3.5,4zida,2558,Bulevar Arsenija Čarnojevića
 63,Niš,2,"Kej Mike Paligorića, Banovina, Crveni Krst, Gradske lokacije",184000,3.0,4zida,2190,Kej Mike Paligorića
-83,Beograd,,"Lion, Zvezdara opština",244900,4.0,4zida,2951,Dojranska
+83,Beograd,1,"Lion, Zvezdara opština",244900,4.0,4zida,2951,Dojranska
 81,Beograd,9,"Blok 63, Bežanijski Blokovi, Novi Beograd",184000,3.5,4zida,2272,Gandijeva
 81,Beograd,4,"Saobraćajni fakultet, Voždovac, Voždovac opština",169000,2.5,4zida,2086,Milana Raspopovića
 80,Beograd,4,"Skupština, Stari Grad opština",230000,3.0,4zida,2875,Majke Jevrosime
@@ -10377,14 +10377,14 @@ area,city,floor,location,price,rooms,source,square_price,title
 63,Beograd,1,"Lekino Brdo, Voždovac opština",181400,4.0,4zida,2879,Vojvode Prijezde
 63,Beograd,2,"Bežanijska kosa 3, Bežanijska kosa, Novi Beograd",176151,2.0,4zida,2796,Magelanova
 112,Beograd,1,"Poštanska Štedionica, Palilula, Palilula opština",250000,4.0,4zida,2232,Kraljice Marije
-68,Šabac,,Gradske lokacije,107420,2.0,4zida,1580,Trkalište
+68,Šabac,1,Gradske lokacije,107420,2.0,4zida,1580,Trkalište
 122,Beograd,3,"Kalenić, Vračar",500000,4.0,4zida,4098,Baba Višnjina
 160,Beograd,0,"Banovo Brdo, Čukarica, Čukarica opština",350000,4.0,4zida,2188,Rajka od Rasine
 71,Niš,5,"Obilićev Venac, Medijana, Gradske lokacije",550000,2.5,4zida,3293,Obilićev Venac
 170,Beograd,4,"Lekino Brdo, Voždovac opština",595000,5.0,4zida,3500,Gospodara Vučića
 197,Beograd,6,"Hram Svetog Save, Neimar, Vračar",720000,5.0,4zida,3655,Južni bulevar
 60,Beograd,2,"Šumice, Voždovac opština",245000,2.0,4zida,4083,Sundečićeva
-60,Beograd,,"Karaburma, Palilula opština",125000,2.0,4zida,2083,Mirijevski bulevar-Palilula
+60,Beograd,1,"Karaburma, Palilula opština",125000,2.0,4zida,2083,Mirijevski bulevar-Palilula
 140,Golubac,1,Gradske lokacije,91900,4.0,4zida,1532,Panorama Residence
 56,Beograd,1,"Karaburma, Palilula opština",120000,2.0,4zida,2143,Dr. Đorđa Joanovića
 51,Beograd,3,"Blok 24, Novi Beograd",200000,2.0,4zida,3922,Milutina Milankovića
@@ -10449,7 +10449,7 @@ area,city,floor,location,price,rooms,source,square_price,title
 77,Beograd,3,"Banovo Brdo, Čukarica, Čukarica opština",200000,3.5,4zida,2597,Požeška
 74,Beograd,4,"Blok 11c - Stari Merkator, Blok 11, Novi Beograd",180000,2.5,4zida,2432,Bulevar Mihajla Pupina
 55,Subotica,2,"Palić, Okolne lokacije",125000,1.0,4zida,2907,Bellaria Apartments & Spa
-122,Beograd,,"Dedinje, Savski Venac",590000,3.0,4zida,4836,Dr Vojislava Stojanovica
+122,Beograd,1,"Dedinje, Savski Venac",590000,3.0,4zida,4836,Dr Vojislava Stojanovica
 160,Beograd,2,"Dedinje, Savski Venac",400000,4.0,4zida,2500,Djordja Radojlovica
 53,Beograd,5,"Vojvode Vlahovića Voždovac, Voždovac opština",115000,2.0,4zida,2170,Mate Milosevica
 94,Beograd,6,"Medaković 3, Medaković, Voždovac opština",240000,3.5,4zida,2553,Borivoja Stevanovica
@@ -10458,7 +10458,7 @@ area,city,floor,location,price,rooms,source,square_price,title
 66,Beograd,-3,"Kluz, Zvezdara opština",150000,3.5,4zida,2273,Milana Rakica
 32,Beograd,0,"Cvetni Trg, Vračar",115000,1.5,4zida,3594,Resavska
 60,Novi Sad,1,"Telep, Gradske lokacije",305000,3.0,4zida,3588,Dubrovačka 3 i 3A
-50,Beograd,,"Tašmajdan, Palilula, Palilula opština",122500,2.0,4zida,2450,Cvijiceva
+50,Beograd,1,"Tašmajdan, Palilula, Palilula opština",122500,2.0,4zida,2450,Cvijiceva
 56,Beograd,11,"Vidikovac, Rakovica opština",85000,2.0,4zida,1518,Vidikovacki venac
 85,Beograd,1,"Centar, Savski Venac",389000,3.0,4zida,4576,Kneza Milosa
 61,Beograd,4,"Kluz, Zvezdara opština",132000,1.5,4zida,2164,Voje Veljkovica
@@ -10470,7 +10470,7 @@ area,city,floor,location,price,rooms,source,square_price,title
 48,Vrnjačka Banja,1,Gradske lokacije,325000,2.0,4zida,3283,V Building
 65,Beograd,9,"Botanička Bašta, Palilula opština",210000,2.0,4zida,3231,Sajkaska
 72,Beograd,4,"Mirijevo, Zvezdara opština",147000,2.5,4zida,2042,Mirka Banjevica
-55,Beograd,,"Lekino Brdo, Voždovac opština",160000,2.0,4zida,2909,Tetovska
+55,Beograd,1,"Lekino Brdo, Voždovac opština",160000,2.0,4zida,2909,Tetovska
 90,Beograd,4,"Centar, Savski Venac",230000,3.0,4zida,2556,Kraljevica Marka
 70,Beograd,10,"Blok 23, Novi Beograd",230000,3.0,4zida,3286,Bulevar Arsenija Carnojevica
 80,Beograd,2,"Kalenić, Vračar",245000,3.5,4zida,3063,Maksima Gorkog
@@ -10490,7 +10490,7 @@ area,city,floor,location,price,rooms,source,square_price,title
 44,Inđija,5,Gradske lokacije,57369,1.0,4zida,1300,KRALJA PETRA PRVOG 36
 70,Beograd,3,"Žarkovo, Čukarica, Čukarica opština",120000,3.0,4zida,1714,Ljubice Ivošević-Dimitrov
 82,Niš,5,"Pantelej, Gradske lokacije",86000,3.5,4zida,1049,Durlan
-55,Niš,,"Sremska, Medijana, Gradske lokacije",78000,2.0,4zida,1418,aaa
+55,Niš,1,"Sremska, Medijana, Gradske lokacije",78000,2.0,4zida,1418,aaa
 27,Beograd,1,"Beograd centar, Stari Grad opština",125000,1.0,4zida,4630,Stevana Sremca
 36,Beograd,1,"Đeram, Zvezdara opština",120000,1.5,4zida,3333,Marka Oreškovića
 72,Niš,3,"Medijana, Gradske lokacije",160000,3.0,4zida,2222,Centar
@@ -10500,15 +10500,15 @@ area,city,floor,location,price,rooms,source,square_price,title
 129,Novi Sad,5,"Salajka, Gradske lokacije",320000,4.0,4zida,2623,Partizanska 62
 77,Beograd,2,"FON - Voždovac, Voždovac, Voždovac opština",218000,3.0,4zida,2831,Vojvode Stepe
 68,Beograd,1,"Kalenić, Vračar",258000,3.0,4zida,3794,Sinđelićeva
-71,Beograd,,"Blok 61, Bežanijski Blokovi, Novi Beograd",155000,2.0,4zida,2183,Dr Ivana Ribara
+71,Beograd,1,"Blok 61, Bežanijski Blokovi, Novi Beograd",155000,2.0,4zida,2183,Dr Ivana Ribara
 64,Beograd,5,"Blok 45, Novi Beograd",150000,2.0,4zida,2344,Jurija Gagarina
 33,Niš,2,"Palilula, Gradske lokacije",69850,0.5,4zida,2068,BEETHOVEN'S PARK
 59,Beograd,18,"Blok 8a - Paviljoni, Paviljoni, Novi Beograd",155000,3.0,4zida,2627,Bulevar Mihajla Pupina
-30,Novi Sad,,"Bulevar Oslobođenja, Gradske lokacije",79500,1.0,4zida,2650,Valentina Vodnika
+30,Novi Sad,1,"Bulevar Oslobođenja, Gradske lokacije",79500,1.0,4zida,2650,Valentina Vodnika
 82,Novi Sad,2,Gradske lokacije,135000,3.0,4zida,1646,Bulevar Oslobođenja
 35,Čačak,4,"Čačak - Centar, Gradske lokacije",40000,1.0,4zida,1143,Trg Jaše Prodanovica
 37,Sokobanja,-3,Gradske lokacije,42500,1.5,4zida,1090,Novogradnja Sokobanja
-48,Beograd,,"Banovo Brdo, Čukarica, Čukarica opština",115000,2.0,4zida,2396,Lješka
+48,Beograd,1,"Banovo Brdo, Čukarica, Čukarica opština",115000,2.0,4zida,2396,Lješka
 31,Beograd,8,"Savski Trg, Savamala, Savski Venac",130000,1.5,4zida,4194,Durmitorska
 55,Beograd,2,"Karaburma, Palilula opština",99000,2.0,4zida,1800,Husinskih rudara
 77,Beograd,2,"Autokomanda, Voždovac opština",229000,2.5,4zida,2974,Admirala Vukovića
@@ -10533,7 +10533,7 @@ area,city,floor,location,price,rooms,source,square_price,title
 138,Beograd,5,"Lion, Zvezdara opština",398500,4.5,4zida,2888,Bulevar kralja Aleksandra
 73,Beograd,4,"Gradska Bolnica, Zvezdara opština",168000,3.0,4zida,2301,Preševska
 90,Beograd,3,"Autokomanda, Voždovac opština",179000,4.0,4zida,1989,Bože Jankovića
-33,Paraćin,,Gradske lokacije,20000,1.0,4zida,606,Centar
+33,Paraćin,1,Gradske lokacije,20000,1.0,4zida,606,Centar
 97,Beograd,2,"Bežanijska kosa 2, Bežanijska kosa, Novi Beograd",250000,4.0,4zida,2577,Marka Čelebonovića
 85,Beograd,2,"Mirijevo, Zvezdara opština",156000,4.0,4zida,1835,Koste Nađa
 178,Jagodina,-3,"Centar, Gradske lokacije",259500,4.0,4zida,2916,NEW DISTRICT Lamela A
@@ -10550,21 +10550,21 @@ area,city,floor,location,price,rooms,source,square_price,title
 85,Beograd,2,"Botanička Bašta, Palilula opština",230000,3.5,4zida,2706,Šajkaška
 56,Beograd,5,"Meandri, Zemun, Zemun opština",122000,2.0,4zida,2179,Bačka
 58,Beograd,9,"Blok 1 - Fontana, Novi Beograd",150000,2.0,4zida,2586,Pariske komune
-38,Beograd,,"Novi Grad, Zemun, Zemun opština",99000,2.0,4zida,2605,Timočka
-56,Beograd,,"Šumice, Voždovac opština",142000,2.0,4zida,2536,Splitska
+38,Beograd,1,"Novi Grad, Zemun, Zemun opština",99000,2.0,4zida,2605,Timočka
+56,Beograd,1,"Šumice, Voždovac opština",142000,2.0,4zida,2536,Splitska
 89,Beograd,1,"Lipov Lad, Zvezdara opština",260000,3.5,4zida,2921,Bulevar kralja Aleksandra
 81,Beograd,2,"Savamala, Savski Venac",239000,3.5,4zida,2951,Svetozara Radića
 104,Beograd,2,"Crveni Krst Vračar, Vračar",338000,4.0,4zida,3250,Starca Vujadina
 43,Novi Sad,3,"Telep, Gradske lokacije",68445,2.0,4zida,1342,Poslovno-stambeni objekat u Heroja Pinkija 52
 116,Beograd,5,"Kalenić, Vračar",433000,4.0,4zida,3733,Hadži Prodanova
-59,Subotica,,Gradske lokacije,70800,3.0,4zida,1200,Centar 3
+59,Subotica,1,Gradske lokacije,70800,3.0,4zida,1200,Centar 3
 39,Beograd,7,"Palilula, Palilula opština",125000,1.0,4zida,3205,Jovana Avakumovića
-201,Subotica,,Gradske lokacije,319909,5.0,4zida,1592,Prozivka
+201,Subotica,1,Gradske lokacije,319909,5.0,4zida,1592,Prozivka
 62,Novi Sad,-3,"Telep, Gradske lokacije",272000,3.0,4zida,4690,Heroja Pinkija 22
-62,Subotica,,Gradske lokacije,65000,2.0,4zida,1048,Radijalac
+62,Subotica,1,Gradske lokacije,65000,2.0,4zida,1048,Radijalac
 101,Beograd,5,"Vukov Spomenik, Zvezdara opština",320000,4.0,4zida,3168,Vojvode Bogdana
-61,Subotica,,Gradske lokacije,82080,3.0,4zida,1346,Bajnat
-51,Subotica,,Gradske lokacije,69079,3.0,4zida,1354,Centar 3
+61,Subotica,1,Gradske lokacije,82080,3.0,4zida,1346,Bajnat
+51,Subotica,1,Gradske lokacije,69079,3.0,4zida,1354,Centar 3
 47,Stara Pazova,2,"Nova Pazova, Okolne lokacije",62040,2.0,4zida,1320,NJEGOŠ PARK
 150,Beograd,8,"Donji Dorćol, Dorćol, Stari Grad opština",685000,4.0,4zida,4567,Žorža Klemansoa
 89,Beograd,2,"Zeleni Venac, Savski Venac",290000,3.5,4zida,3258,Gavrila Principa
@@ -10583,16 +10583,16 @@ area,city,floor,location,price,rooms,source,square_price,title
 37,Ćuprija,3,Gradske lokacije,800000,1.0,4zida,3704,Ćuprija Duo-Pro 15
 96,Beograd,4,"Filmski Grad, Čukarica, Čukarica opština",190000,3.0,4zida,1979,Arčibalda Rajsa
 67,Zrenjanin,1,Gradske lokacije,65000,3.0,4zida,970,4. Juli
-56,Zrenjanin,,Gradske lokacije,45000,2.0,4zida,804,Šećerana
+56,Zrenjanin,1,Gradske lokacije,45000,2.0,4zida,804,Šećerana
 67,Beograd,3,"Konjarnik (Voždovački deo), Voždovac opština",150000,2.0,4zida,2239,Vladimira Tomanovića
-100,Novi Sad,,"Telep, Gradske lokacije",139000,4.0,4zida,1931,Lux urbana vila Telep - Novi Sad
+100,Novi Sad,1,"Telep, Gradske lokacije",139000,4.0,4zida,1931,Lux urbana vila Telep - Novi Sad
 43,Niš,9,"Bulevar Nemanjića, Medijana, Gradske lokacije",58000,2.5,4zida,1349,Romanijska
 50,Beograd,0,"Skadarlija, Beograd centar, Stari Grad opština",169000,2.0,4zida,3380,Skadarska
 44,Beograd,13,"Lekino Brdo, Voždovac opština",118000,1.5,4zida,2682,Bačvanska
-41,Zlatibor,,"Obudojevica, Okolne lokacije",55350,2.0,4zida,1350,Ugostiteljska
+41,Zlatibor,1,"Obudojevica, Okolne lokacije",55350,2.0,4zida,1350,Ugostiteljska
 43,Zlatibor,0,"Obudojevica, Okolne lokacije",51600,3.0,4zida,1200,Ugostiteljska
 31,Zlatibor,0,Okolne lokacije,55000,1.5,4zida,1774,Zova
-70,Beograd,,"Gornji Grad, Zemun, Zemun opština",164900,3.0,4zida,2356,Milana Uzelca
+70,Beograd,1,"Gornji Grad, Zemun, Zemun opština",164900,3.0,4zida,2356,Milana Uzelca
 55,Beograd,4,"Batajnica, Zemun opština",98900,1.5,4zida,1798,Bihaćka
 135,Inđija,1,Gradske lokacije,285000,4.0,4zida,2740,Lux kuca u Inđiji
 24,Beograd,2,"Batajnica, Zemun opština",51000,1.0,4zida,2125,Kralja Radoslava
@@ -10653,11 +10653,11 @@ area,city,floor,location,price,rooms,source,square_price,title
 50,Beograd,1,"Pregrevica, Zemun, Zemun opština",150000,2.0,4zida,3000,pregrevica
 85,Beograd,1,"Bežanijski Blokovi, Novi Beograd",198000,3.5,4zida,2329,Jurija Gagarina
 73,Beograd,7,"Hotel YU, Novi Beograd",210000,3.0,4zida,2877,Bulevar Maršala Tolbuhina
-53,Valjevo,,Okolne lokacije,86000,2.0,4zida,1623,Divčibare
+53,Valjevo,1,Okolne lokacije,86000,2.0,4zida,1623,Divčibare
 46,Niš,3,"Crveni Pevac, Medijana, Gradske lokacije",55180,2.0,4zida,1314,Prvomajska
 94,Valjevo,4,"Naselje Milorad Pavlović, Gradske lokacije",103500,4.0,4zida,1101,SENJAK
-51,Valjevo,,Okolne lokacije,102000,2.0,4zida,2000,Divčibare
-61,Novi Sad,,"Novi Sad - Centar, Stari Grad, Gradske lokacije",179000,2.0,4zida,2934,Jevrejska 16
+51,Valjevo,1,Okolne lokacije,102000,2.0,4zida,2000,Divčibare
+61,Novi Sad,1,"Novi Sad - Centar, Stari Grad, Gradske lokacije",179000,2.0,4zida,2934,Jevrejska 16
 27,Novi Sad,2,Gradske lokacije,67000,0.5,4zida,2481,Bulevar Evrope
 60,Niš,1,"Dom Zdravlja, Medijana, Gradske lokacije",242000,2.0,4zida,2574,Kod Doma Zdravlja
 50,Kruševac,4,Gradske lokacije,60000,2.0,4zida,1200,Pejton
@@ -10723,13 +10723,13 @@ area,city,floor,location,price,rooms,source,square_price,title
 66,Beograd,1,"Lekino Brdo, Voždovac opština",200000,2.5,4zida,3030,Miklošićeva
 71,Novi Sad,3,"Futoški Put, Gradske lokacije",72500,3.0,4zida,1169,NOVELLA Business & Residence
 86,Subotica,2,Gradske lokacije,82500,3.0,4zida,959,Prozivka
-44,Novi Sad,,Gradske lokacije,145000,2.0,4zida,3295,Bulevar Oslobođenja
-69,Novi Sad,,Gradske lokacije,154500,3.0,4zida,2239,Adamovićevo Naselje
+44,Novi Sad,1,Gradske lokacije,145000,2.0,4zida,3295,Bulevar Oslobođenja
+69,Novi Sad,1,Gradske lokacije,154500,3.0,4zida,2239,Adamovićevo Naselje
 51,Novi Sad,5,Gradske lokacije,111240,1.5,4zida,2181,Bulevar Oslobođenja
 55,Novi Sad,1,Gradske lokacije,109180,2.0,4zida,1985,Novo Naselje
 97,Pančevo,5,"Centar, Gradske lokacije",109320,2.5,4zida,1127,6.OKTOBAR 4
 110,Novi Sad,5,Gradske lokacije,199000,4.0,4zida,1809,Bulevar Oslobođenja
-60,Kruševac,,"Blagoja Parovića, Gradske lokacije",58000,2.0,4zida,967,Blagoja Parovica 2
+60,Kruševac,1,"Blagoja Parovića, Gradske lokacije",58000,2.0,4zida,967,Blagoja Parovica 2
 142,Novi Sad,1,"Adamovićevo Naselje, Gradske lokacije",55000,5.0,4zida,1897,Vila Mila
 73,Novi Sad,3,"Donja Kamenica, Sremska Kamenica, Gradske lokacije",108000,2.5,4zida,1479,Kneza Mihaila 25
 48,Subotica,1,"Prozivka, Gradske lokacije",63000,2.0,4zida,1313,Matije Gupca 87
@@ -10737,7 +10737,7 @@ area,city,floor,location,price,rooms,source,square_price,title
 32,Beograd,3,"Ledine, Novi Beograd",57000,1.5,4zida,1781,Danice Kojić 9
 173,Aranđelovac,0,Gradske lokacije,323554,4.0,4zida,1865,Bekatown
 35,Zlatibor,1,"Centar, Gradske lokacije",50000,1.0,4zida,1429,Vranjevina
-26,Zlatibor,,"Sloboda, Okolne lokacije",42900,1.0,4zida,1650,Sunčani breg
+26,Zlatibor,1,"Sloboda, Okolne lokacije",42900,1.0,4zida,1650,Sunčani breg
 35,Beograd,3,"Vidikovačka Padina, Vidikovac, Rakovica opština",60000,1.5,4zida,1714,Prvoboraca 41d
 66,Novi Sad,4,"Detelinara, Gradske lokacije",151400,3.0,4zida,2294,Nova Detelinara
 104,Novi Sad,2,"Sajmište, Gradske lokacije",72000,4.0,4zida,1125,Novosadskog sajma 31A
@@ -10749,12 +10749,12 @@ area,city,floor,location,price,rooms,source,square_price,title
 64,Niš,3,"Medijana, Gradske lokacije",128500,2.5,4zida,2008,Centar
 89,Subotica,4,"Radijalac, Gradske lokacije",125000,4.0,4zida,1404,Plitvička 10
 61,Subotica,3,Gradske lokacije,82350,3.0,4zida,1350,Bajnat
-36,Vrnjačka Banja,,Gradske lokacije,69000,1.0,4zida,1917,Raj
+36,Vrnjačka Banja,1,Gradske lokacije,69000,1.0,4zida,1917,Raj
 94,Stara Pazova,-3,"Novi Banovci, Okolne lokacije",83000,4.0,4zida,1844,Luksuzni stambeni objekat - Novi Banovci
 21,Vrnjačka Banja,0,Gradske lokacije,31653,0.5,4zida,1507,Slatina
 33,Vrnjačka Banja,0,Gradske lokacije,58000,0.5,4zida,1758,Raj
-34,Vrnjačka Banja,,Vrnjačka Banja,74000,1.0,4zida,2176,Gradske lokacije
-42,Vrnjačka Banja,,Vrnjačka Banja,71400,1.0,4zida,1700,Gradske lokacije
+34,Vrnjačka Banja,1,Vrnjačka Banja,74000,1.0,4zida,2176,Gradske lokacije
+42,Vrnjačka Banja,1,Vrnjačka Banja,71400,1.0,4zida,1700,Gradske lokacije
 33,Novi Sad,-3,"Telep, Gradske lokacije",49500,1.0,4zida,2357,Dalmatinska 10-12
 89,Subotica,4,Gradske lokacije,125000,3.5,4zida,1404,Dudova Šuma
 47,Kruševac,3,"Vlado Jurić, Gradske lokacije",39000,2.0,4zida,830,Trg Fontane 20/3
@@ -10764,7 +10764,7 @@ area,city,floor,location,price,rooms,source,square_price,title
 48,Beograd,1,"Altina, Zemun, Zemun opština",91200,2.0,4zida,1900,Ugrinovački put VIII deo 34
 55,Beograd,1,"Altina, Zemun, Zemun opština",104500,2.0,4zida,1900,Ugrinovački put VIII deo 34
 88,Beograd,0,"Altina, Zemun, Zemun opština",115000,2.0,4zida,1307,Ugrinovačka VIII deo
-52,Stara Pazova,,"Novi Banovci, Okolne lokacije",65000,2.0,4zida,1250,DOSITEJA OBRADOVICA
+52,Stara Pazova,1,"Novi Banovci, Okolne lokacije",65000,2.0,4zida,1250,DOSITEJA OBRADOVICA
 63,Novi Sad,5,Gradske lokacije,121500,3.0,4zida,1929,Sajmište
 70,Vrnjačka Banja,3,Gradske lokacije,119350,2.0,4zida,1705,Slatina
 31,Vrnjačka Banja,0,Gradske lokacije,54000,0.5,4zida,1742,Centar
@@ -10783,7 +10783,7 @@ area,city,floor,location,price,rooms,source,square_price,title
 66,Novi Sad,1,"Petrovaradin, Gradske lokacije",135341,3.0,4zida,2050,DREAM HOME FORTRESS IV
 55,Beograd,0,"Karaburma, Palilula opština",115000,2.5,4zida,2091,Lipetska
 84,Beograd,4,"Stepa Stepanović, Voždovac opština",235000,3.0,4zida,2798,Šumadijske divizije
-111,Beograd,,Vračar,279000,3.0,4zida,2514,Crveni Krst Vračar
+111,Beograd,1,Vračar,279000,3.0,4zida,2514,Crveni Krst Vračar
 33,Veliko Gradište,0,"Srebrno Jezero, Okolne lokacije",36300,1.0,4zida,1100,Jezerske zvezde
 22,Beograd,0,"Karaburma, Palilula opština",64500,0.5,4zida,2932,Pera Ćetkovića
 90,Beograd,3,"Skupština, Stari Grad opština",290000,3.5,4zida,3222,Palmotićeva
@@ -10809,11 +10809,11 @@ area,city,floor,location,price,rooms,source,square_price,title
 79,Niš,3,"Medijana, Gradske lokacije",130050,3.5,4zida,1646,Dom Zdravlja
 75,Beograd,5,"Blok 11c - Stari Merkator, Blok 11, Novi Beograd",203000,3.0,4zida,2707,Palmira Toljatija
 65,Temerin,3,"Temerin - centar, Gradske lokacije",77000,3.0,4zida,1351,NOVOSADSKA 369-371
-44,Zrenjanin,,"Brigadira Ristića, Gradske lokacije",45000,2.0,4zida,1023,Dunavska
+44,Zrenjanin,1,"Brigadira Ristića, Gradske lokacije",45000,2.0,4zida,1023,Dunavska
 150,Subotica,5,Gradske lokacije,112900,4.0,4zida,753,Centar 1
 86,Beograd,8,"Palilula, Palilula opština",240000,3.5,4zida,2791,Bulevar Despota Stefana
 61,Novi Sad,2,Gradske lokacije,112270,2.5,4zida,1840,Adice
-48,Niš,,"Pijaca Palilula, Palilula, Gradske lokacije",33000,2.0,4zida,1100,Marije Bursać Residence
+48,Niš,1,"Pijaca Palilula, Palilula, Gradske lokacije",33000,2.0,4zida,1100,Marije Bursać Residence
 66,Niš,2,Gradske lokacije,102300,2.5,4zida,1550,Pantelej
 94,Niš,4,Gradske lokacije,145700,3.5,4zida,1550,Pantelej
 76,Niš,1,"Centar, Medijana, Gradske lokacije",120000,3.5,4zida,1579,Kej Kola srpskih sestara
@@ -10826,10 +10826,10 @@ area,city,floor,location,price,rooms,source,square_price,title
 62,Beograd,1,"Zemun - Centar, Zemun, Zemun opština",190000,2.0,4zida,3065,dr Petra Markovića
 43,Niš,1,Gradske lokacije,72300,1.5,4zida,1681,Pantelej
 46,Vrnjačka Banja,1,Gradske lokacije,92000,1.0,4zida,2000,Centar
-51,Novi Sad,,Gradske lokacije,99000,3.0,4zida,1941,Grbavica
+51,Novi Sad,1,Gradske lokacije,99000,3.0,4zida,1941,Grbavica
 46,Vrnjačka Banja,1,Gradske lokacije,83000,1.5,4zida,1804,Snežnik
 57,Niš,3,"Somborska, Pantelej, Gradske lokacije",60000,1.5,4zida,1667,Pantelej - Janisa Janulisa
-37,Vrnjačka Banja,,Gradske lokacije,85000,1.0,4zida,2297,Centar
+37,Vrnjačka Banja,1,Gradske lokacije,85000,1.0,4zida,2297,Centar
 87,Novi Sad,4,Gradske lokacije,188200,3.0,4zida,2163,Bulevar Evrope
 69,Subotica,2,Gradske lokacije,90779,3.0,4zida,1316,Radijalac
 51,Beograd,1,"Rvati, Obrenovac opština",84150,2.0,4zida,1650,Vlaška Bašta 6
@@ -10847,7 +10847,7 @@ area,city,floor,location,price,rooms,source,square_price,title
 57,Sombor,2,"Centar, Gradske lokacije",70000,2.0,4zida,1228,Samka Radosavljevića
 58,Zrenjanin,3,"4. Juli, Gradske lokacije",49000,2.5,4zida,845,"Zrenjanin, 4. jul"
 83,Beograd,5,"Crveni Krst Vračar, Vračar",255000,3.0,4zida,3072,Mileševska
-73,Beograd,,"Kanarevo Brdo, Rakovica opština",145000,3.0,4zida,1986,Vukasovićeva
+73,Beograd,1,"Kanarevo Brdo, Rakovica opština",145000,3.0,4zida,1986,Vukasovićeva
 50,Kragujevac,1,"Stari Grad, Gradske lokacije",110000,2.0,4zida,1930,Carica
 79,Beograd,1,"Trošarina, Voždovac opština",239000,3.0,4zida,3025,Pazinska
 54,Beograd,2,"Stepa Stepanović, Voždovac opština",99900,1.5,4zida,1850,Bulevar Peka Dapčevića
@@ -10859,13 +10859,13 @@ area,city,floor,location,price,rooms,source,square_price,title
 22,Novi Sad,2,"Detelinara, Gradske lokacije",57500,0.5,4zida,2614,Nova Detelinara
 74,Zrenjanin,6,Gradske lokacije,89000,3.0,4zida,1203,Bagljaš
 136,Novi Sad,1,"Telep, Gradske lokacije",65000,4.0,4zida,878,Vila Emerald 2
-43,Beograd,,"Ledine, Novi Beograd",90174,2.0,4zida,2097,Kolumbova
+43,Beograd,1,"Ledine, Novi Beograd",90174,2.0,4zida,2097,Kolumbova
 170,Vranje,4,"Centar, Gradske lokacije",130000,5.0,4zida,765,Partizanska 9a/10
 70,Niš,3,Gradske lokacije,97500,3.5,4zida,1393,Pantelej
-51,Beograd,,"Zemun - Centar, Zemun, Zemun opština",162700,2.0,4zida,3190,Pregrevica
+51,Beograd,1,"Zemun - Centar, Zemun, Zemun opština",162700,2.0,4zida,3190,Pregrevica
 149,Beograd,6,Vračar,385000,4.0,4zida,2584,Južni Bulevar
 58,Beograd,2,"Učiteljsko Naselje, Zvezdara opština",144738,2.0,4zida,2495,Paje Jovanovića 11
-39,Valjevo,,"Divčibare, Okolne lokacije",69700,2.0,4zida,1787,Breza
+39,Valjevo,1,"Divčibare, Okolne lokacije",69700,2.0,4zida,1787,Breza
 76,Niš,3,"Crveni Pevac, Medijana, Gradske lokacije",109000,2.0,4zida,1434,Vojvode Mišića
 93,Beograd,3,"Lekino Brdo, Voždovac opština",241000,4.0,4zida,2591,Todora Dukina
 133,Niš,4,"Marger, Medijana, Gradske lokacije",180967,4.0,4zida,1850,Stambeni objekat kod Margera
@@ -10895,7 +10895,7 @@ area,city,floor,location,price,rooms,source,square_price,title
 122,Subotica,4,"Centar 3, Gradske lokacije",185400,3.0,4zida,2767,Ugao Matije Gupca i Sonje Marinković
 48,Beograd,0,"Kaluđerica, Grocka opština",45000,3.0,4zida,938,Karađorđeva
 76,Beograd,1,"Palata Pravde, Savski Venac",228000,2.5,4zida,3000,Dr Aleksandra Kostića
-96,Beograd,,"Bežanijska kosa, Novi Beograd",203000,3.0,4zida,2115,Peđe Milosavljevića
+96,Beograd,1,"Bežanijska kosa, Novi Beograd",203000,3.0,4zida,2115,Peđe Milosavljevića
 93,Beograd,1,"Voždovačka crkva, Voždovac opština",129600,4.0,4zida,1825,Nestora Žučnog ( Kod Voždovačke Crkve)
 86,Niš,4,"Palilula, Gradske lokacije",154800,4.0,4zida,1800,Takovska
 81,Beograd,8,"Bogoslovija, Palilula opština",220000,3.5,4zida,2716,Bulevar despota Stefana
@@ -10904,7 +10904,7 @@ area,city,floor,location,price,rooms,source,square_price,title
 72,Novi Sad,5,"Stari Grad, Gradske lokacije",226600,3.0,4zida,3147,Novi Sad - Centar
 61,Zrenjanin,1,"Bagljaš, Gradske lokacije",67000,3.0,4zida,1098,bulevar Veljka Vlahovića
 64,Užice,4,"Rakijska Pijaca, Gradske lokacije",75000,3.0,4zida,1172,Nikole Pašića
-33,Vrnjačka Banja,,Vrnjačka Banja,59670,1.0,4zida,1808,Gradske lokacije
+33,Vrnjačka Banja,1,Vrnjačka Banja,59670,1.0,4zida,1808,Gradske lokacije
 122,Novi Sad,2,Gradske lokacije,180250,4.0,4zida,1477,Veternik
 42,Vrnjačka Banja,1,"Centar, Gradske lokacije",40700,1.0,4zida,1850,Kralj Residence Resort
 125,Beograd,6,"Vidikovac, Rakovica opština",339000,4.0,4zida,2712,Kneza Višeslava
@@ -10940,9 +10940,9 @@ area,city,floor,location,price,rooms,source,square_price,title
 93,Novi Sad,2,"Mišeluk, Petrovaradin, Gradske lokacije",167000,3.0,4zida,1796,Alibegovac bb
 46,Novi Sad,1,"Telep, Gradske lokacije",94760,1.5,4zida,2060,Bulevar Patrijarha Pavla (Somborski Bulevar)
 63,Niš,0,"Palilula, Gradske lokacije",91350,3.0,4zida,1450,Staro Groblje
-55,Novi Sad,,Gradske lokacije,133900,2.0,4zida,2435,Bulevar Oslobođenja
+55,Novi Sad,1,Gradske lokacije,133900,2.0,4zida,2435,Bulevar Oslobođenja
 82,Niš,9,"Bulevar Nemanjića, Medijana, Gradske lokacije",119000,3.0,4zida,1451,Delta
-78,Novi Sad,,"Majur, Petrovaradin, Gradske lokacije",104400,3.0,4zida,1338,Novi Majur
+78,Novi Sad,1,"Majur, Petrovaradin, Gradske lokacije",104400,3.0,4zida,1338,Novi Majur
 91,Novi Sad,3,"Majur, Petrovaradin, Gradske lokacije",121850,4.0,4zida,1339,Novi Majur
 80,Smederevo,3,Gradske lokacije,110839,3.0,4zida,1375,Đure Daničića 40
 21,Beograd,0,"Zeleni Venac, Savski Venac",70000,0.5,4zida,3333,Kraljice Natalije
@@ -10956,11 +10956,11 @@ area,city,floor,location,price,rooms,source,square_price,title
 36,Niš,1,"Pantelej, Gradske lokacije",52200,1.0,4zida,1450,Excellent Team
 47,Beograd,5,"Crveni Krst Vračar, Vračar",150000,1.0,4zida,3191,Metohijska
 41,Beograd,1,"Voždovac, Voždovac opština",112000,1.5,4zida,2732,Ljuba Vučkovića
-55,Beograd,,"Zemun Polje, Zemun, Zemun opština",77000,2.0,4zida,1400,Bertranda Rasela
+55,Beograd,1,"Zemun Polje, Zemun, Zemun opština",77000,2.0,4zida,1400,Bertranda Rasela
 53,Beograd,6,"Banovo Brdo, Čukarica, Čukarica opština",123500,3.0,4zida,2330,Požeška
 24,Beograd,1,"Zvezdara, Zvezdara opština",42786,0.5,4zida,1783,Milića od Mačve
-32,Beograd,,"Slavija, Vračar",125000,1.0,4zida,3906,Kneginje Zorke
-27,Beograd,,"Bele Vode, Čukarica, Čukarica opština",58000,1.0,4zida,2148,Buda Tomovića
+32,Beograd,1,"Slavija, Vračar",125000,1.0,4zida,3906,Kneginje Zorke
+27,Beograd,1,"Bele Vode, Čukarica, Čukarica opština",58000,1.0,4zida,2148,Buda Tomovića
 55,Beograd,2,"Autokomanda, Savski Venac",192500,2.5,4zida,3500,Dobropoljska
 40,Beograd,0,"Autokomanda, Savski Venac",140000,2.0,4zida,3500,Dobropoljska
 36,Jagodina,0,"Kajsijar, Gradske lokacije",44110,1.0,4zida,1200,Crnogorska
@@ -10990,7 +10990,7 @@ area,city,floor,location,price,rooms,source,square_price,title
 74,Ivanjica,2,Ivanjica,111000,3.0,4zida,1500,Gradske lokacije
 54,Beograd,11,"Sava Kovačević, Zemun, Zemun opština",105000,2.0,4zida,1944,Miće Radakovića
 43,Novi Sad,4,"Detelinara, Gradske lokacije",110725,1.5,4zida,2575,Nova Detelinara
-76,Beograd,,"Gornji Grad, Zemun, Zemun opština",150000,2.0,4zida,1974,Cara Dušana
+76,Beograd,1,"Gornji Grad, Zemun, Zemun opština",150000,2.0,4zida,1974,Cara Dušana
 45,Niš,2,"Pantelej, Gradske lokacije",68985,2.0,4zida,1500,Excellent Dream
 56,Beograd,1,"Đeram, Zvezdara opština",160500,2.5,4zida,2866,Šabačka
 44,Beograd,2,"Sava Kovačević, Zemun, Zemun opština",110000,2.0,4zida,2500,Bosanska
@@ -11002,10 +11002,10 @@ area,city,floor,location,price,rooms,source,square_price,title
 28,Beograd,2,"Bulbulder, Zvezdara opština",110000,0.5,4zida,3929,Dimitrija Tucovića
 42,Beograd,2,"Donji Grad, Zemun, Zemun opština",125000,2.0,4zida,2976,Bosanska
 50,Niš,0,Gradske lokacije,83400,2.0,4zida,1651,Novogradnja Pantelej
-63,Beograd,,"Miljakovac I, Miljakovac, Rakovica opština",107000,2.0,4zida,1698,Čelebićka
-81,Beograd,,"Bežanijska kosa 3, Bežanijska kosa, Novi Beograd",219000,3.0,4zida,2704,Nede Spasojević
+63,Beograd,1,"Miljakovac I, Miljakovac, Rakovica opština",107000,2.0,4zida,1698,Čelebićka
+81,Beograd,1,"Bežanijska kosa 3, Bežanijska kosa, Novi Beograd",219000,3.0,4zida,2704,Nede Spasojević
 77,Beograd,4,"Studentski Trg, Beograd centar, Stari Grad opština",415000,3.0,4zida,5390,Simina
-66,Kragujevac,,"Centar, Stari Grad, Gradske lokacije",253000,3.0,4zida,2976,Central Residence- Ilije Kolovića 31
+66,Kragujevac,1,"Centar, Stari Grad, Gradske lokacije",253000,3.0,4zida,2976,Central Residence- Ilije Kolovića 31
 59,Beograd,1,"Julino Brdo, Čukarica, Čukarica opština",130000,2.5,4zida,2203,Marine Veličković
 96,Beograd,3,"Beograd centar, Stari Grad opština",275000,3.5,4zida,2865,Kraljice Natalije
 34,Beograd,6,"Blok 65 - WEST 65, Novi Beograd",154990,1.0,4zida,4559,Tadije Sondermajera
@@ -11014,7 +11014,7 @@ area,city,floor,location,price,rooms,source,square_price,title
 70,Subotica,7,"Kertvaroš, Gradske lokacije",75000,3.0,4zida,1071,Segedinski put
 125,Beograd,5,"Banovo Brdo, Čukarica, Čukarica opština",230000,3.5,4zida,1840,Dostojevskog
 125,Pančevo,1,Gradske lokacije,200000,3.0,4zida,1600,Moše Pijade
-80,Beograd,,Surčin opština,120000,3.0,4zida,1500,Dobanovci
+80,Beograd,1,Surčin opština,120000,3.0,4zida,1500,Dobanovci
 57,Beograd,2,"Gradska Bolnica, Zvezdara opština",220000,2.5,4zida,3860,Velebitska
 100,Beograd,4,"Crveni Krst Vračar, Vračar",239999,4.0,4zida,2400,Golubačka
 46,Niš,1,"Čalije, Pantelej, Gradske lokacije",69438,2.0,4zida,1485,Nikolić gradnja i Building Zone
@@ -11040,7 +11040,7 @@ area,city,floor,location,price,rooms,source,square_price,title
 58,Niš,2,"Čair, Medijana, Gradske lokacije",141200,2.0,4zida,2434,Cara Dušana
 104,Beograd,1,"Petlovo Brdo, Rakovica opština",198000,3.5,4zida,1904,Omladinsko šetalište
 73,Beograd,9,"Beograd na vodi, Savski Venac",438000,3.0,4zida,6000,Hercegovacka
-23,Novi Sad,,Gradske lokacije,67890,1.0,4zida,2952,Podbara
+23,Novi Sad,1,Gradske lokacije,67890,1.0,4zida,2952,Podbara
 70,Beograd,1,"Vojvode Stepe, Voždovac opština",64500,2.5,4zida,1792,Vojvoda Residence
 107,Novi Sad,3,Gradske lokacije,328100,4.0,4zida,3066,Grbavica
 83,Beograd,2,"Karaburma, Palilula opština",120000,2.5,4zida,1446,Dr Drage Ljočić
@@ -11082,7 +11082,7 @@ area,city,floor,location,price,rooms,source,square_price,title
 60,Beograd,2,"Mirijevo, Zvezdara opština",127500,2.0,4zida,2125,Mirijevski venac
 40,Beograd,0,"Voždovac, Voždovac opština",77000,1.5,4zida,1925,Jove Ilića
 84,Beograd,1,Vračar,375000,3.5,4zida,4464,Mlade Bosne
-80,Beograd,,"Lekino Brdo, Voždovac opština",198000,4.0,4zida,2475,Rade Končara
+80,Beograd,1,"Lekino Brdo, Voždovac opština",198000,4.0,4zida,2475,Rade Končara
 39,Beograd,-0.5,"Mirijevo, Zvezdara opština",73000,2.0,4zida,1872,Mihaila Bulgakova
 56,Novi Sad,7,"Detelinara, Gradske lokacije",123600,2.0,4zida,2207,Turgenjeva
 45,Beograd,4,"Voždovac, Voždovac opština",99000,1.0,4zida,2200,Vitanovačka
@@ -11144,14 +11144,14 @@ area,city,floor,location,price,rooms,source,square_price,title
 58,Vrnjačka Banja,3,Gradske lokacije,93000,2.0,4zida,1603,Centar
 76,Kragujevac,5,"Pivara, Gradske lokacije",108723,3.0,4zida,1431,Radmila Đorđevića 16
 65,Kragujevac,5,"Pivara, Gradske lokacije",93665,2.5,4zida,1430,Radmila Đorđevića 16
-60,Kragujevac,,"Centar, Gradske lokacije",53000,2.0,4zida,883,Lepa Brena
+60,Kragujevac,1,"Centar, Gradske lokacije",53000,2.0,4zida,883,Lepa Brena
 55,Beograd,1,"Rvati, Obrenovac opština",97842,2.0,4zida,1750,Stambeni objekat - KNEŽEVI KONACI
 30,Niš,4,"Pantelej, Gradske lokacije",51000,1.5,4zida,1700,Gornjomatejevacka ulica
-33,Vrnjačka Banja,,Gradske lokacije,56916,1.0,4zida,1725,Slatina
+33,Vrnjačka Banja,1,Gradske lokacije,56916,1.0,4zida,1725,Slatina
 62,Zrenjanin,6,Gradske lokacije,65000,2.0,4zida,1048,Bagljaš
 42,Kragujevac,4,"Pivara, Gradske lokacije",61032,1.5,4zida,1429,Radmila Đorđevića 16
 76,Kragujevac,4,"Pivara, Gradske lokacije",108723,3.5,4zida,1431,Radmila Đorđevića 16
-68,Beograd,,"Lekino Brdo, Voždovac opština",313000,3.0,4zida,4603,Tetovska
+68,Beograd,1,"Lekino Brdo, Voždovac opština",313000,3.0,4zida,4603,Tetovska
 65,Kragujevac,1,"Pivara, Gradske lokacije",93665,2.5,4zida,1430,Radmila Đorđevića 16
 52,Kragujevac,0,"Pivara, Gradske lokacije",68640,2.5,4zida,1300,Radmila Đorđevića 16
 35,Kragujevac,0,"Pivara, Gradske lokacije",50164,1.5,4zida,1429,Radmila Đorđevića 16
@@ -11167,9 +11167,9 @@ area,city,floor,location,price,rooms,source,square_price,title
 94,Novi Sad,2,Gradske lokacije,203320,3.5,4zida,2163,Vidovdansko Naselje
 169,Subotica,6,"Prozivka, Gradske lokacije",93000,4.5,4zida,1274,Višeporodični stambeni objekat - Izvorska
 45,Novi Sad,2,"Grbavica, Gradske lokacije",150000,2.0,4zida,3333,Tolstojeva 2
-53,Niš,,"Medijana, Gradske lokacije",92000,2.0,4zida,1736,Kod ekonomskog i pravnog fakulteta
+53,Niš,1,"Medijana, Gradske lokacije",92000,2.0,4zida,1736,Kod ekonomskog i pravnog fakulteta
 65,Beograd,3,"Altina, Zemun, Zemun opština",124000,3.0,4zida,1908,Aleksandra Petrovića
-48,Subotica,,Gradske lokacije,83500,2.0,4zida,1740,Radijalac
+48,Subotica,1,Gradske lokacije,83500,2.0,4zida,1740,Radijalac
 53,Beograd,1,"Blok 63, Bežanijski Blokovi, Novi Beograd",230000,3.0,4zida,4340,Jurija Gagarina
 29,Subotica,0,"Centar 1, Gradske lokacije",41441,0.5,4zida,1429,Stalaćka
 68,Novi Sad,3,"Detelinara, Gradske lokacije",175100,3.0,4zida,2575,Nova Detelinara
@@ -11201,7 +11201,7 @@ area,city,floor,location,price,rooms,source,square_price,title
 18,Vrnjačka Banja,1,Gradske lokacije,33300,0.5,4zida,1850,Jezero
 51,Beograd,6,"Neimar, Vračar",164999,1.5,4zida,3235,Hadži Melentijeva
 84,Beograd,9,"Blok 8a - Paviljoni, Paviljoni, Novi Beograd",179000,2.0,4zida,2131,Otona Župančiča
-96,Beograd,,"Đeram, Zvezdara opština",204800,4.0,4zida,2133,Tršćanska
+96,Beograd,1,"Đeram, Zvezdara opština",204800,4.0,4zida,2133,Tršćanska
 73,Niš,0,"Donja Vrežina, Pantelej, Gradske lokacije",103572,3.5,4zida,1400,Viktor Igo
 27,Beograd,4,"Vukov Spomenik, Zvezdara opština",89100,1.5,4zida,3300,Zahumska
 74,Beograd,7,"Vidikovac, Rakovica opština",230000,5.0,4zida,3108,Patrijarha Joanikija
@@ -11211,7 +11211,7 @@ area,city,floor,location,price,rooms,source,square_price,title
 80,Kragujevac,1,Gradske lokacije,135000,4.0,4zida,1688,Centar
 61,Kragujevac,-3,"Veliki Park, Vašarište, Gradske lokacije",67000,3.0,4zida,1098,Kazimira Veljkovića
 46,Beograd,7,"Karaburma, Palilula opština",89000,2.0,4zida,1935,Drenovačka
-34,Sokobanja,,"Banjica, Gradske lokacije",55770,1.0,4zida,1640,Profesora Dragoljuba Jovanovića bb
+34,Sokobanja,1,"Banjica, Gradske lokacije",55770,1.0,4zida,1640,Profesora Dragoljuba Jovanovića bb
 79,Beograd,5,"Mladenovac centar, Mladenovac opština",86000,4.0,4zida,2263,Magdalena Koncept
 66,Beograd,8,"Palata Pravde, Savski Venac",228000,2.0,4zida,3455,Durmitorska
 69,Kragujevac,2,Gradske lokacije,99900,3.0,4zida,1448,Erdoglija
@@ -11231,7 +11231,7 @@ area,city,floor,location,price,rooms,source,square_price,title
 75,Zrenjanin,3,Gradske lokacije,89000,3.0,4zida,1187,Žitni Trg
 39,Zrenjanin,0,Gradske lokacije,48000,2.0,4zida,1231,4. Juli
 37,Zrenjanin,4,"Bagljaš, Gradske lokacije",45000,1.0,4zida,1216,Bulevar Veljka Vlahovića
-67,Zrenjanin,,Gradske lokacije,35000,3.0,4zida,522,Zeleno Polje
+67,Zrenjanin,1,Gradske lokacije,35000,3.0,4zida,522,Zeleno Polje
 264,Subotica,5,"Centar 1, Gradske lokacije",264000,7.0,4zida,1000,Korzo 10 C
 124,Novi Sad,5,"Adamovićevo Naselje, Gradske lokacije",249000,4.5,4zida,2008,Cara Dušana
 58,Novi Sad,2,Gradske lokacije,154500,2.5,4zida,2664,Stari Grad
@@ -11244,8 +11244,8 @@ area,city,floor,location,price,rooms,source,square_price,title
 60,Niš,1,"Čair, Medijana, Gradske lokacije",106575,2.5,4zida,1750,Kod Gradske Bolnice
 43,Novi Sad,3,"Detelinara, Gradske lokacije",85000,2.5,4zida,1977,Nova Detelinara
 30,Novi Sad,6,"Liman, Gradske lokacije",82500,1.0,4zida,2750,Liman 4
-53,Valjevo,,Gradske lokacije,69750,2.0,4zida,1316,Brđani
-67,Valjevo,,Gradske lokacije,88440,2.0,4zida,1320,Brđani
+53,Valjevo,1,Gradske lokacije,69750,2.0,4zida,1316,Brđani
+67,Valjevo,1,Gradske lokacije,88440,2.0,4zida,1320,Brđani
 20,Sokobanja,-3,Gradske lokacije,60000,2.0,4zida,1053,Ljube Didića 3
 47,Novi Sad,2,"Novo Naselje, Gradske lokacije",94760,2.0,4zida,2016,Šarengrad
 52,Novi Sad,1,Gradske lokacije,115000,2.0,4zida,2212,Grbavica
@@ -11257,21 +11257,21 @@ area,city,floor,location,price,rooms,source,square_price,title
 46,Novi Sad,1,"Telep, Gradske lokacije",106168,1.5,4zida,2308,Bolmanska
 35,Novi Sad,1,"Detelinara, Gradske lokacije",79770,1.5,4zida,2279,Janka Čmelika
 143,Pančevo,5,"Centar, Gradske lokacije",210000,4.0,4zida,1469,CENTRAL
-52,Zlatibor,,"Centar, Gradske lokacije",128700,1.0,4zida,2475,Krfska 14
+52,Zlatibor,1,"Centar, Gradske lokacije",128700,1.0,4zida,2475,Krfska 14
 92,Beograd,5,"Vojvode Stepe, Voždovac opština",281000,3.0,4zida,3054,Vojvode Stepe 355
 63,Beograd,2,Novi Beograd,194000,2.0,4zida,3079,Bežanijska kosa
 92,Beograd,0,"Bežanijska kosa, Novi Beograd",275000,3.0,4zida,2989,Magelanova 8
 67,Prokuplje,4,"Đurevačko Naselje, Gradske lokacije",74074,3.0,4zida,1300,Horizont Lux
-50,Subotica,,"Centar 3, Gradske lokacije",68599,2.0,4zida,1372,Evgenija kumičića 19
+50,Subotica,1,"Centar 3, Gradske lokacije",68599,2.0,4zida,1372,Evgenija kumičića 19
 50,Niš,0,Gradske lokacije,65000,2.0,4zida,1300,Palilula
 72,Niš,1,"Medijana, Gradske lokacije",160000,2.5,4zida,2222,Gradska Bolnica
 34,Sokobanja,-3,"Podina, Gradske lokacije",115450,1.5,4zida,2624,Green Hill Sokobanja
 30,Beograd,1,"Zvezdara, Zvezdara opština",54738,1.5,4zida,1825,Milića od Mačve
-73,Beograd,,"Palilulska Pijaca, Palilula, Palilula opština",215000,3.0,4zida,2945,Dalmatinska
+73,Beograd,1,"Palilulska Pijaca, Palilula, Palilula opština",215000,3.0,4zida,2945,Dalmatinska
 68,Beograd,3,"Konjarnik, Zvezdara opština",165000,2.5,4zida,2426,Bulevar Kralja Aleksandra
 144,Beograd,1,"Voždovac, Voždovac opština",333000,6.0,4zida,2313,Kapetana Zavišića
 82,Beograd,5,Vračar,280000,3.0,4zida,3415,Južni Bulevar
-88,Beograd,,"Autokomanda, Voždovac opština",269500,4.0,4zida,3063,Bože Jankovića
+88,Beograd,1,"Autokomanda, Voždovac opština",269500,4.0,4zida,3063,Bože Jankovića
 71,Beograd,1,"Beograđanka, Savski Venac",178750,2.5,4zida,2518,Sarajevska
 90,Beograd,5,"Karaburma, Palilula opština",130000,3.0,4zida,1444,Pera Ćetkovića
 84,Beograd,1,"Neimar, Vračar",370000,3.5,4zida,4405,Mlade Bosne
@@ -11297,7 +11297,7 @@ area,city,floor,location,price,rooms,source,square_price,title
 59,Beograd,1,"Donji Dorćol, Dorćol, Stari Grad opština",340000,2.0,4zida,5763,Venizelosova
 60,Beograd,2,"Botanička Bašta, Palilula opština",215000,2.5,4zida,3583,Drinčićeva
 61,Beograd,4,"Dušanovac, Voždovac opština",175000,2.5,4zida,2869,Vojvode Skopljanca
-39,Beograd,,"Mirijevo, Zvezdara opština",82500,2.0,4zida,2115,Predraga Vasića
+39,Beograd,1,"Mirijevo, Zvezdara opština",82500,2.0,4zida,2115,Predraga Vasića
 140,Beograd,4,"Mladenovac centar, Mladenovac opština",650000,3.0,4zida,2889,ODILIJA ZLATNI BLOK
 37,Beograd,4,Stari Grad opština,189000,1.5,4zida,5108,Terazije
 45,Beograd,6,"Čukarička Padina, Čukarica, Čukarica opština",130000,2.0,4zida,2889,Stevana Đurđevića Trošarinca
@@ -11311,9 +11311,9 @@ area,city,floor,location,price,rooms,source,square_price,title
 47,Beograd,4,"Braće Jerković, Voždovac opština",142000,2.0,4zida,3021,Jovana Bijelića
 100,Novi Sad,3,"Sajmište, Gradske lokacije",226600,4.0,4zida,2266,Jodna Banja
 44,Subotica,1,Gradske lokacije,46000,1.5,4zida,1045,Kertvaroš
-54,Subotica,,Gradske lokacije,55000,2.0,4zida,1019,Novo Selo
+54,Subotica,1,Gradske lokacije,55000,2.0,4zida,1019,Novo Selo
 218,Subotica,1,Gradske lokacije,92000,5.0,4zida,422,Mali Radanovac
-69,Kruševac,,Gradske lokacije,154000,1.0,4zida,2205,"Stambeno-poslovna zgrada, Nemanjina"
+69,Kruševac,1,Gradske lokacije,154000,1.0,4zida,2205,"Stambeno-poslovna zgrada, Nemanjina"
 48,Kragujevac,2,"Stari Grad, Gradske lokacije",86400,1.0,4zida,1800,Nikole Pašića
 102,Kragujevac,4,Gradske lokacije,315000,3.0,4zida,3088,Stari Grad
 39,Zlatibor,5,"25. Maj, Okolne lokacije",70452,1.0,4zida,1806,Ace Pavlovića
@@ -11328,7 +11328,7 @@ area,city,floor,location,price,rooms,source,square_price,title
 61,Beograd,4,"Kluz, Zvezdara opština",132000,1.5,4zida,2164,Voje Veljkovića
 43,Beograd,0,"Medaković 3, Medaković, Voždovac opština",104000,1.0,4zida,2419,Borivoja Stevanovića
 97,Beograd,3,"Crveni Krst Vračar, Vračar",350000,4.0,4zida,3608,Metohijska
-52,Beograd,,"Karaburma, Palilula opština",110000,2.0,4zida,2115,Juhorska
+52,Beograd,1,"Karaburma, Palilula opština",110000,2.0,4zida,2115,Juhorska
 37,Beograd,8,"Sava Kovačević, Zemun, Zemun opština",110000,1.0,4zida,2973,Mića Radakovića
 56,Beograd,0,"Dedinje, Savski Venac",195000,3.0,4zida,3482,Mihaila Avramovića
 50,Beograd,3,"Višnjička Banja, Palilula opština",115000,2.5,4zida,2300,Slobodana Jovanovića
@@ -11381,14 +11381,14 @@ area,city,floor,location,price,rooms,source,square_price,title
 43,Novi Sad,0,Gradske lokacije,101950,2.0,4zida,2371,Telep
 39,Novi Sad,2,Gradske lokacije,97150,1.5,4zida,2491,Telep
 88,Novi Sad,2,Gradske lokacije,219900,3.0,4zida,2499,Telep
-130,Novi Sad,,"Novo Naselje, Gradske lokacije",99150,4.0,4zida,2542,Immo Luxury living
+130,Novi Sad,1,"Novo Naselje, Gradske lokacije",99150,4.0,4zida,2542,Immo Luxury living
 88,Novi Sad,3,Gradske lokacije,219900,3.0,4zida,2499,Telep
 58,Novi Sad,1,Gradske lokacije,135950,2.5,4zida,2344,Telep
 40,Novi Sad,5,Gradske lokacije,80350,1.5,4zida,2009,Novo Naselje
 85,Beograd,1,"Vidikovac, Rakovica opština",155000,3.5,4zida,1824,Vidikovački venac
 49,Beograd,5,"Meandri, Zemun, Zemun opština",123000,2.0,4zida,2510,Bačka
 45,Beograd,5,"Skupština, Stari Grad opština",190000,2.0,4zida,4222,Kosovska
-94,Beograd,,"Konjarnik, Zvezdara opština",207000,4.0,4zida,2202,Blagajska
+94,Beograd,1,"Konjarnik, Zvezdara opština",207000,4.0,4zida,2202,Blagajska
 29,Niš,8,"Ekonomski/Pravni Fakultet, Medijana, Gradske lokacije",60000,0.5,4zida,2069,Trg kralja Aleksandra Ujedinitelja
 87,Niš,1,"Palilula, Gradske lokacije",107650,3.0,4zida,1237,Ratka Sofijanića
 76,Pančevo,2,"Tesla, Gradske lokacije",122400,2.5,4zida,1600,Čumićeva 1V
@@ -11406,11 +11406,11 @@ area,city,floor,location,price,rooms,source,square_price,title
 23,Beograd,0,"Knez Mihailova, Beograd centar, Stari Grad opština",118000,1.0,4zida,5130,Cara Lazara
 157,Novi Sad,2,"Stari Grad, Gradske lokacije",485000,5.0,4zida,3089,Novi Sad - Centar
 29,Novi Sad,4,Gradske lokacije,86200,0.5,4zida,2972,Bulevar Oslobođenja
-65,Zaječar,,Gradske lokacije,67000,3.0,4zida,1031,Centar
+65,Zaječar,1,Gradske lokacije,67000,3.0,4zida,1031,Centar
 34,Beograd,0,Voždovac opština,59000,1.5,4zida,1735,Lekino Brdo
 59,Subotica,3,Gradske lokacije,69900,2.0,4zida,1185,Centar 3
 60,Kragujevac,4,Gradske lokacije,93000,2.5,4zida,1550,Centar
-48,Kragujevac,,Gradske lokacije,72000,2.0,4zida,1500,Centar
+48,Kragujevac,1,Gradske lokacije,72000,2.0,4zida,1500,Centar
 71,Kragujevac,2,Gradske lokacije,107000,2.5,4zida,1507,Centar
 73,Kragujevac,1,Gradske lokacije,93000,3.0,4zida,1274,Vašarište
 63,Beograd,3,"Železnik, Čukarica, Čukarica opština",102000,2.0,4zida,1619,Svete Milutinovica
@@ -11423,18 +11423,18 @@ area,city,floor,location,price,rooms,source,square_price,title
 96,Beograd,2,"Istočni Vračar, Vračar",285000,6.0,4zida,2969,Kneza Miloša
 46,Niš,1,"Čalije, Pantelej, Gradske lokacije",65780,2.0,4zida,1430,Momčila Milovanovića bb
 28,Subotica,0,Gradske lokacije,41441,1.0,4zida,1480,Centar 1
-63,Pančevo,,Gradske lokacije,98910,3.0,4zida,1570,Centar
+63,Pančevo,1,Gradske lokacije,98910,3.0,4zida,1570,Centar
 71,Pančevo,4,Gradske lokacije,111470,3.0,4zida,1570,Centar
 62,Niš,3,"Bulevar Zona 2, Bulevar Nemanjića, Medijana, Gradske lokacije",103000,2.0,4zida,1661,Romanijska
-63,Beograd,,"Mladenovac centar, Mladenovac opština",91495,3.0,4zida,1452,Kralja Aleksandra Obrenovića
+63,Beograd,1,"Mladenovac centar, Mladenovac opština",91495,3.0,4zida,1452,Kralja Aleksandra Obrenovića
 50,Beograd,2,"Mladenovac centar, Mladenovac opština",73515,2.0,4zida,1470,Kralja Aleksandra Obrenovića
 45,Beograd,1,"Mladenovac centar, Mladenovac opština",65250,2.0,4zida,1450,Kralja Aleksandra Obrenovića
-40,Beograd,,"Mladenovac centar, Mladenovac opština",59305,2.0,4zida,1483,Kralja Aleksandra Obrenovića
+40,Beograd,1,"Mladenovac centar, Mladenovac opština",59305,2.0,4zida,1483,Kralja Aleksandra Obrenovića
 50,Beograd,2,"Mladenovac centar, Mladenovac opština",72645,2.0,4zida,1453,Kralja Aleksandra Obrenovića
-41,Beograd,,"Mladenovac centar, Mladenovac opština",59740,2.0,4zida,1457,Kralja Aleksandra Obrenovića
+41,Beograd,1,"Mladenovac centar, Mladenovac opština",59740,2.0,4zida,1457,Kralja Aleksandra Obrenovića
 64,Beograd,2,"Mladenovac centar, Mladenovac opština",93815,3.0,4zida,1466,Kralja Aleksandra Obrenovića
-54,Beograd,,"Mladenovac centar, Mladenovac opština",78300,2.0,4zida,1450,Kralja Aleksandra Obrenovića
-47,Beograd,,"Mladenovac centar, Mladenovac opština",68150,2.0,4zida,1450,Kralja Aleksandra Obrenovića
+54,Beograd,1,"Mladenovac centar, Mladenovac opština",78300,2.0,4zida,1450,Kralja Aleksandra Obrenovića
+47,Beograd,1,"Mladenovac centar, Mladenovac opština",68150,2.0,4zida,1450,Kralja Aleksandra Obrenovića
 61,Beograd,2,"Mladenovac centar, Mladenovac opština",88885,3.0,4zida,1457,Kralja Aleksandra Obrenovića
 30,Beograd,1,"Mladenovac centar, Mladenovac opština",44370,1.0,4zida,1479,Kralja Aleksandra Obrenovića
 46,Novi Sad,4,Gradske lokacije,111000,2.0,4zida,2413,Detelinara
@@ -11484,7 +11484,7 @@ area,city,floor,location,price,rooms,source,square_price,title
 56,Beograd,6,"Bežanijska kosa 2, Bežanijska kosa, Novi Beograd",157000,2.0,4zida,2804,Pedje Milosavljevica
 72,Beograd,1,"Žarkovo, Čukarica, Čukarica opština",145000,3.0,4zida,2014,Braće Škerovića
 56,Beograd,5,"Karaburma, Palilula opština",107500,3.0,4zida,1920,Danteova
-54,Beograd,,"Borča, Palilula opština",125000,3.0,4zida,2315,Save Maleševića
+54,Beograd,1,"Borča, Palilula opština",125000,3.0,4zida,2315,Save Maleševića
 84,Beograd,3,"Bežanijska kosa 2, Bežanijska kosa, Novi Beograd",209000,3.5,4zida,2488,Marka Čelebonovića
 42,Beograd,4,"Altina, Zemun, Zemun opština",79900,2.0,4zida,1902,Ugrinovački put
 96,Beograd,2,Vračar,285000,4.0,4zida,2969,Kneza Miloša
@@ -11495,7 +11495,7 @@ area,city,floor,location,price,rooms,source,square_price,title
 59,Niš,3,Gradske lokacije,88500,2.0,4zida,1500,Medijana
 59,Beograd,3,Vračar,195000,2.0,4zida,3305,Čubura
 93,Novi Sad,5,"Detelinara, Gradske lokacije",158620,3.0,4zida,1706,Nova Detelinara
-58,Beograd,,"Zemun, Zemun opština",148000,2.0,4zida,2552,Prvomajska
+58,Beograd,1,"Zemun, Zemun opština",148000,2.0,4zida,2552,Prvomajska
 43,Beograd,2,"Trg Republike, Beograd centar, Stari Grad opština",197000,2.5,4zida,4581,Francuska
 68,Novi Sad,1,Gradske lokacije,112500,3.5,4zida,1654,Adice
 37,Novi Sad,2,Gradske lokacije,115360,2.0,4zida,3118,Grbavica
@@ -11512,20 +11512,20 @@ area,city,floor,location,price,rooms,source,square_price,title
 48,Novi Sad,4,Gradske lokacije,108150,1.5,4zida,2253,Telep
 21,Beograd,2,"Južni Bulevar, Vračar",70000,1.0,4zida,3333,Maksima Gorkog
 130,Beograd,1,Savski Venac,215000,5.0,4zida,1654,Senjak
-81,Beograd,,"Dedinje, Savski Venac",220000,3.0,4zida,2716,Mihaila Avramovića
+81,Beograd,1,"Dedinje, Savski Venac",220000,3.0,4zida,2716,Mihaila Avramovića
 110,Beograd,4,"Vukov Spomenik, Zvezdara opština",462000,4.0,4zida,4200,Čelopečka
 105,Beograd,4,"Vukov Spomenik, Zvezdara opština",441000,4.0,4zida,4200,Čelopečka
 66,Beograd,0,"Vukov Spomenik, Zvezdara opština",277200,3.0,4zida,4200,Čelopečka
 107,Beograd,6,"Vukov Spomenik, Zvezdara opština",449400,4.0,4zida,4200,Čelopečka
 78,Beograd,7,"Vukov Spomenik, Zvezdara opština",327600,3.0,4zida,4200,Čelopečka
-88,Beograd,,"Autokomanda, Voždovac opština",275000,4.0,4zida,3125,Bože Jankovića
+88,Beograd,1,"Autokomanda, Voždovac opština",275000,4.0,4zida,3125,Bože Jankovića
 92,Beograd,3,"Autokomanda, Voždovac opština",289000,3.0,4zida,3141,Bože Jankovića
 138,Beograd,2,"Lion, Zvezdara opština",263000,5.0,4zida,1906,Gvozdićeva
 120,Beograd,5,"Banovo Brdo, Čukarica, Čukarica opština",315000,3.0,4zida,2625,Nodilova
 39,Beograd,0,"Lekino Brdo, Voždovac opština",147000,1.0,4zida,3769,Garibaldijeva
 99,Beograd,2,"Hram Svetog Save, Neimar, Vračar",295000,5.0,4zida,2980,Lamartinova
 180,Beograd,1,"Dedinje, Savski Venac",650000,5.0,4zida,3611,Miće Orlovića
-78,Beograd,,"Cvetkova Pijaca, Zvezdara opština",178000,3.0,4zida,2282,Čardaklijina
+78,Beograd,1,"Cvetkova Pijaca, Zvezdara opština",178000,3.0,4zida,2282,Čardaklijina
 85,Beograd,3,"Južni Bulevar, Vračar",230000,3.5,4zida,2706,Mlade Bosne
 214,Beograd,4,"Hram Svetog Save, Neimar, Vračar",1500000,4.0,4zida,7009,Mutapova
 57,Zlatibor,4,"Centar, Gradske lokacije",102000,3.0,4zida,1789,Sportova
@@ -11549,7 +11549,7 @@ area,city,floor,location,price,rooms,source,square_price,title
 185,Beograd,1,"Hram Svetog Save, Neimar, Vračar",1110000,4.0,4zida,6000,Patrijarha Varnave
 158,Beograd,1,"Hram Svetog Save, Neimar, Vračar",646380,4.0,4zida,4091,Stojana Protića
 153,Beograd,2,"Hram Svetog Save, Neimar, Vračar",625920,4.0,4zida,4091,Stojana Protića
-63,Beograd,,"Braće Jerković, Voždovac opština",126000,3.0,4zida,2000,Vojvode Vlahovića
+63,Beograd,1,"Braće Jerković, Voždovac opština",126000,3.0,4zida,2000,Vojvode Vlahovića
 65,Beograd,5,"Voždovac, Voždovac opština",155000,3.5,4zida,2385,Kraljevačka
 70,Beograd,0,"Dedinje, Savski Venac",260000,2.0,4zida,3714,Slavka Ćuruvije
 49,Kopaonik,4,Gradske lokacije,275000,2.0,4zida,5612,Jovana Cvijića
@@ -11599,7 +11599,7 @@ area,city,floor,location,price,rooms,source,square_price,title
 45,Beograd,-0.5,"Mirijevo, Zvezdara opština",87000,2.0,4zida,1933,Kapetana Miloša Žunjića
 92,Beograd,0,"Bežanijska kosa, Novi Beograd",249000,3.0,4zida,2707,Magelanova
 20,Beograd,0,"Miljakovac I, Miljakovac, Rakovica opština",44000,0.5,4zida,2200,Stevana Opačića
-84,Beograd,,"Mirijevo, Zvezdara opština",138000,3.0,4zida,1643,Enrike Josifa
+84,Beograd,1,"Mirijevo, Zvezdara opština",138000,3.0,4zida,1643,Enrike Josifa
 85,Beograd,4,"Botanička Bašta, Palilula opština",209000,3.0,4zida,2459,Bulevar despota Stefana
 63,Beograd,2,"Bežanijska kosa, Novi Beograd",176000,2.0,4zida,2794,Magelanova
 134,Beograd,3,"Dedinje, Savski Venac",560000,4.0,4zida,4179,Vladimira Gaćinovića
@@ -11612,14 +11612,14 @@ area,city,floor,location,price,rooms,source,square_price,title
 80,Beograd,4,"Zvezdarska Šuma, Zvezdara opština",240000,2.0,4zida,3000,Preševska
 29,Novi Sad,3,"Novo Naselje, Gradske lokacije",70000,0.5,4zida,2414,Đorđa Nikšića Johana
 73,Beograd,1,"Banovo Brdo, Čukarica, Čukarica opština",206900,3.0,4zida,2834,Nodilova
-61,Novi Sad,,"Adice, Gradske lokacije",109000,3.0,4zida,1787,Pavla Bakića
+61,Novi Sad,1,"Adice, Gradske lokacije",109000,3.0,4zida,1787,Pavla Bakića
 76,Novi Sad,3,"Spens, Stari Grad, Gradske lokacije",165000,3.0,4zida,2171,Maksima Gorkog
 52,Novi Sad,4,"Futoška, Gradske lokacije",137000,2.5,4zida,2635,Ćirpanova
 58,Beograd,4,"Zvezdara, Zvezdara opština",180000,2.0,4zida,3103,Branka Krsmanovića
 131,Beograd,1,"Kalemegdan, Stari Grad opština",449000,6.0,4zida,3427,Cara Dušana
 115,Novi Sad,4,Gradske lokacije,229690,4.0,4zida,1997,Grbavica
 124,Novi Sad,4,Gradske lokacije,172500,4.5,4zida,1391,Petrovaradin
-49,Vrnjačka Banja,,Gradske lokacije,89100,3.0,4zida,1818,Jastrebačka
+49,Vrnjačka Banja,1,Gradske lokacije,89100,3.0,4zida,1818,Jastrebačka
 65,Novi Sad,7,Gradske lokacije,213210,3.0,4zida,3280,Bulevar Evrope
 47,Novi Sad,3,Gradske lokacije,113300,2.5,4zida,2411,Podbara
 35,Novi Sad,2,Gradske lokacije,97850,1.5,4zida,2796,Telep
@@ -11633,16 +11633,16 @@ area,city,floor,location,price,rooms,source,square_price,title
 31,Novi Sad,0,Gradske lokacije,66950,1.5,4zida,2160,Novo Naselje
 65,Novi Sad,7,Gradske lokacije,192600,3.0,4zida,2963,Adamovićevo Naselje
 64,Beograd,1,"Vukov Spomenik, Zvezdara opština",210000,3.5,4zida,3281,Zahumska
-57,Beograd,,"Batajnica, Zemun opština",58000,2.0,4zida,1018,Braće Barišić
+57,Beograd,1,"Batajnica, Zemun opština",58000,2.0,4zida,1018,Braće Barišić
 67,Beograd,2,"Blok 45, Novi Beograd",165000,2.5,4zida,2463,Jurija Gagarina
-57,Beograd,,"Braće Jerković, Voždovac opština",131100,2.0,4zida,2300,Brace Jerković
+57,Beograd,1,"Braće Jerković, Voždovac opština",131100,2.0,4zida,2300,Brace Jerković
 56,Beograd,0,Rakovica opština,130000,4.0,4zida,2321,Petlovo Brdo
 58,Novi Sad,2,Gradske lokacije,130850,2.5,4zida,2256,Telep
 111,Novi Sad,4,Gradske lokacije,288400,4.0,4zida,2598,Bulevar Evrope
 62,Novi Sad,0,Gradske lokacije,83500,3.5,4zida,1347,Avijatičarsko Naselje
 25,Novi Sad,3,Gradske lokacije,66950,0.5,4zida,2678,Grbavica
 44,Novi Sad,3,Gradske lokacije,102000,2.0,4zida,2318,Podbara
-45,Kruševac,,Gradske lokacije,50000,2.0,4zida,1111,Pejton
+45,Kruševac,1,Gradske lokacije,50000,2.0,4zida,1111,Pejton
 37,Vrnjačka Banja,1,Gradske lokacije,74012,1.0,4zida,2000,Centar
 87,Beograd,9,"Hotel YU, Novi Beograd",225000,4.0,4zida,2586,Aleksinačkih rudara
 72,Beograd,1,"Medaković 2, Medaković, Voždovac opština",133000,3.0,4zida,1847,Radovana Simića Cige
@@ -11672,7 +11672,7 @@ area,city,floor,location,price,rooms,source,square_price,title
 54,Novi Sad,2,Gradske lokacije,161710,2.0,4zida,2995,Grbavica
 64,Novi Sad,2,"Nova Detelinara, Detelinara, Gradske lokacije",144000,3.0,4zida,2250,Janka Veselinovića
 26,Novi Sad,1,Gradske lokacije,74680,0.5,4zida,2872,Podbara
-75,Novi Sad,,Gradske lokacije,238400,3.0,4zida,3179,Bulevar Oslobođenja
+75,Novi Sad,1,Gradske lokacije,238400,3.0,4zida,3179,Bulevar Oslobođenja
 40,Beograd,2,"Beograd na vodi, Savski Venac",201888,1.0,4zida,5047,Hercegovačka
 114,Beograd,6,"Vukov Spomenik, Zvezdara opština",365000,4.0,4zida,3202,Vojvode Šupljikca
 57,Pančevo,6,Gradske lokacije,75000,2.0,4zida,1316,Strelište
