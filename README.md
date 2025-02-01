@@ -1,2 +1,2 @@
 ## Real Estate Data Hub
-###### Masters Degree Thesis Project
+###### Master's Degree Thesis Project
